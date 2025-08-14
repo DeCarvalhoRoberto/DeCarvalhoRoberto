@@ -12,8 +12,8 @@
 
 ## 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderAlves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAlves&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeCarvalhoRoberto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeCarvalhoRoberto&hide_progress=true)
 
 <p align="center"><br>
   <img align="center" alt="Rob-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
